@@ -1,4 +1,4 @@
-# Apple App Store frontend source code archive
+# Apple App Store frontend source code archive - Forked
 
 Extracted from [https://apps.apple.com/](https://apps.apple.com/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
 
